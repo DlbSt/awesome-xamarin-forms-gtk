@@ -4,7 +4,7 @@ List of Xamarin.Forms GTK# libraries and resources.
 ## Xamarin.Forms GTK#
 
 ### Audio/Video
-* [LibVLCSharp](https://github.com/videolan/libvlcsharp) - Cross-platform audio and video API.
+* [LibVLCSharp](https://github.com/videolan/libvlcsharp) - Cross-platform audio and video API. ([Nuget](https://www.nuget.org/packages/LibVLCSharp.Forms.GTK/))
 
 ### Controls
 * [Forms GTK Toolkit](https://github.com/jsuarezruiz/FormsGtkToolkit) - Additional controls for Xamarin.Forms GTK# platform.
