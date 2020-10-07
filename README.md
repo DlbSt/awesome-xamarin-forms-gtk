@@ -11,8 +11,8 @@ List of Xamarin.Forms GTK# libraries and resources.
 * [Rg.Plugins.Popup - Experimental fork](https://github.com/antmurph/Rg.Plugins.Popup) - Fork which contains pop-up support for GTK# platform.
 
 ### Graphics
-* [Skia Sharp](https://github.com/mono/SkiaSharp) - Cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. ([Nuget](https://www.nuget.org/packages/SkiaSharp.Views.Forms.GTK/))
 * [Fancy Frame](https://github.com/yurkinh/FancyFrame) - Pancake View port to Skia Sharp. ([Article](https://serengetitech.com/en/blog/tech/welcome-fancyframe))
+* [Skia Sharp](https://github.com/mono/SkiaSharp) - Cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. ([Nuget](https://www.nuget.org/packages/SkiaSharp.Views.Forms.GTK/))
 
 ### MVVM
 * [PRISM](https://github.com/PrismLibrary/Prism) - MVVM framework with integrated IoC container. (How to use PRISM in Xamarin.Forms GTK# Project - [Prism Documentation](https://prismlibrary.com/docs/xamarin-forms/platform-reference/gtk.html) | [Duane Newman's blog](https://duanenewman.net/blog/post/using-prism-with-xamarin-forms-and-gtk/))
