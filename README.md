@@ -28,6 +28,9 @@ List of Xamarin.Forms GTK# libraries and resources.
 * [Weather](https://github.com/jsuarezruiz/xamarin-forms-gtk-weather-sample) - Weather app sample.
 * [Xamarin.Forms GTK Samples](https://github.com/jsuarezruiz/xamarin-forms-gtk-samples) - Samples from Xamarin.Forms samples repository.
 
+### Tutorials
+* [Microsoft docs - GTK# Platform Setup](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/platform/other/gtk?tabs=windows) - How to setup GTK# project is Xamarin.Forms solution.
+
 ## GTK#
 List of GTK# resources, which can be also useful in Xamarin.Forms projects.
 
