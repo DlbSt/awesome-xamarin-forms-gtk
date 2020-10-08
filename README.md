@@ -19,7 +19,9 @@ List of Xamarin.Forms GTK# libraries and resources.
 * [PRISM](https://github.com/PrismLibrary/Prism) - MVVM framework with integrated IoC container. (How to use PRISM in Xamarin.Forms GTK# Project - [Prism Documentation](https://prismlibrary.com/docs/xamarin-forms/platform-reference/gtk.html) | [Duane Newman's blog](https://duanenewman.net/blog/post/using-prism-with-xamarin-forms-and-gtk/))
 
 ### Plugins
+* [Xamarin Background PLugin](https://github.com/nblockchain/XamarinFormsBackground) - Plugin library to simplify Backgrounding in Xamarin.Forms.
 * [Xamarin Clipboard Plugin](https://github.com/stavroskasidis/XamarinClipboardPlugin) - Cross platform plugin to read and write to the clipboard. ([Nuget](https://www.nuget.org/packages/Xamarin.Plugins.Clipboard/))
+* [ZXing.Net.Xamarin](https://github.com/nblockchain/ZXing.Net.Xamarin) - C#/.NET library based on the open source Barcode Library (Rendering only, not scanning).
 
 ### Samples
 * [Microcharts GTK Samples](https://github.com/jsuarezruiz/Microcharts.GTK.Samples) - Microcharts sample using SkiaSharp.
