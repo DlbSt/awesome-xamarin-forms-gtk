@@ -37,6 +37,7 @@ List of Xamarin.Forms GTK# libraries and resources.
 List of GTK# resources, which can be also useful in Xamarin.Forms projects.
 
 ### Controls
+* [GtkPdfSharp](https://github.com/GSharpKit/GtkPdfSharp) - Viewer for showing PDF in Gtk using Cairo.
 * [Oxyplot for GTK#](https://github.com/oxyplot/oxyplot-gtksharp) - Cross-platform plotting library for .NET. ([How to use Oxyplot in GTK#](https://oxyplot.readthedocs.io/en/latest/getting-started/hello-gtk.html) | [PlotView renderer from Temperature Monitor App](https://github.com/jsuarezruiz/xamarin-forms-gtk-iot-samples/blob/master/src/TemperatureMonitor/TemperatureMonitor.GTK/Renderers/PlotViewRenderer.cs))
 
 ### Tutorials
