@@ -9,6 +9,7 @@ List of Xamarin.Forms GTK# libraries and resources.
 ### Controls
 * [Forms GTK Toolkit](https://github.com/jsuarezruiz/FormsGtkToolkit) - Additional controls for Xamarin.Forms GTK# platform.
 * [Rg.Plugins.Popup - Experimental fork](https://github.com/antmurph/Rg.Plugins.Popup) - Fork which contains pop-up support for GTK# platform.
+* [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit) - Snackbar for Xamarin.Forms GTK# and other useful resources.
 
 ### Graphics
 * [Fancy Frame](https://github.com/yurkinh/FancyFrame) - Pancake View port to Skia Sharp. ([Article](https://serengetitech.com/en/blog/tech/welcome-fancyframe))
